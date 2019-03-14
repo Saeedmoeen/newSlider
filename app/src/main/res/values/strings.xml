@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">newSlider</string>
+
+    <string name="slidOne_Title">Hello Food!</string>
+    <string name="slideOne_Description">The easiest way to order food from yout favourite restraount!</string>
+
+    <string name="slidTwo_Title">Movie Tickets</string>
+    <string name="slideTwo_Description">Book movie tickets for your family and friends</string>
+
+    <string name="slidThree_Title">Great Discounts</string>
+    <string name="slideThree_Description">Best discounts on every single service we offer!</string>
+
+    <string name="slidFour_Title">World Travel</string>
+    <string name="slideFour_Description">Book tickets for any transportation and travel the world</string>
+</resources>
