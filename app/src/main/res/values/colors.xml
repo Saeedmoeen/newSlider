@@ -3,4 +3,13 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorView">#B6B1B1</color>
+
+    <color name="dot_Incative">#a3a3a3</color>
+    <color name="dot_Active">#ffffff</color>
+
+    <color name="Slide_One">#02A393</color>
+    <color name="Slide_Two">#03A9F4</color>
+    <color name="Slide_Three">#E91E63</color>
+    <color name="Slide_Four">#673AB7</color>
 </resources>

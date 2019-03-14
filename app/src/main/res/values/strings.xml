@@ -12,4 +12,22 @@
 
     <string name="slidFour_Title">World Travel</string>
     <string name="slideFour_Description">Book tickets for any transportation and travel the world</string>
+
+    <string name="btn_Skip">Skip</string>
+    <string name="btn_Next">Next</string>
+    <string name="btn_Gotit">Got it</string>
+
+    <string-array name="Slide_Title">
+        <item>@string/slidOne_Title</item>
+        <item>@string/slidTwo_Title</item>
+        <item>@string/slidThree_Title</item>
+        <item>@string/slidFour_Title</item>
+    </string-array>
+
+    <string-array name="Slide_Description">
+        <item>@string/slideOne_Description</item>
+        <item>@string/slideTwo_Description</item>
+        <item>@string/slideThree_Description</item>
+        <item>@string/slideFour_Description</item>
+    </string-array>
 </resources>
